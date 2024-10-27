@@ -7,7 +7,7 @@
 
 ## Notebook HTML
 
-Se deseja apenas olhar o output deste código abra o arquivo ´notebook.html´ no seu navegador.
+Se deseja apenas olhar o output deste código abra o arquivo `notebook.html` no seu navegador.
 
 ## Como instalar
 

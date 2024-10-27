@@ -5,6 +5,10 @@
 
 # Português
 
+## Notebook HTML
+
+Se deseja apenas olhar o output deste código abra o arquivo ´notebook.html´ no seu navegador.
+
 ## Como instalar
 
 Este repositório usa poetry, portanto para instalar use a [documentação deles](https://python-poetry.org/docs/) como referência para testar este código
@@ -23,6 +27,10 @@ O arquivo que contém todo o código é o `notebook.py` você pode olhar o códi
 Esse projeto compara um pouco da velocidade do Pandas e do DuckDB quando lendo dados assim como demonstra o uso de algumas funções do DuckDB
 
 # English
+
+## Notebook HTML
+
+If you want to just check the output of this code, please open the file `notebook.html` in your web browser
 
 ## How to install
 

@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "duckdb-tutorial"
+version = "0.1.0"
+description = ""
+authors = ["vsaito <viniciusaitosilva@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+duckdb = "0.6.1"
+pandas = "1.5.2"
+seaborn = "0.12.1"
+matplotlib = "3.6.2"
+numpy = "1.26.4"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
